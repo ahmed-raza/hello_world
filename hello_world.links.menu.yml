@@ -1,0 +1,6 @@
+hello_world.admin:
+  title: 'First module settings'
+  description: 'A basic module to return hello world'
+  parent: system.main_menu
+  route_name: hello_world.content
+  weight: 100

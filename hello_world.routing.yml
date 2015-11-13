@@ -1,4 +1,4 @@
-example.content:
+hello_world.content:
   path: 'hello'
   defaults:
     _controller: '\Drupal\hello_world\Controller\HelloController::content'
